@@ -1,5 +1,5 @@
 
-    Plant.create(name: 'blades leave', price: 100, image: 'images/1.faux_monstera_in_stone_painted_planter.jpg')
+    Plant.create(name: 'joel GOAT', price: 100, image: 'images/1.faux_monstera_in_stone_painted_planter.jpg')
     Plant.create(name: 'naméspace', price: 200, image: 'images/017-large-decorative-flower-pots-cool-indoor-plants-plant-1w800-inside-for-remodel-2.jpg' )
     Plant.create(name: 'needles in water', price: 30, image:'images/61oVbbY6fSL._SR500,500_.jpg')
     Plant.create(name: 'osumazon', price: 80, image: 'images/3558f9bec47f67f41b3edbe1dbbea659.jpg')
@@ -20,3 +20,5 @@
     Plant.create(name: 'camels on moonstones', price: 40, image: 'images/tall-house-plants-large-indoor-plants-tall-artificial-house-plants-uk.jpg' )
     Plant.create(name: 'festival of fyre', price: 5000, image: 'images/tumblr_o3uwkebUKw1ue7yrmo1_400.jpg' )
     Plant.create(name: 'midtown', price: 65, image: 'images/types-of-tall-house-plants-sale-common-tall-house-plants-common-tree-house-plants.jpg' )
+
+    User.create(username: 'gracie', password: 'test')
